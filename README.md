@@ -1,6 +1,7 @@
 # PHP-Function-Library-Date-And-Time-Adjuster
 PHP Function Library : Date and Time Adjuster
 
+/*
 <?php
 //print_r(localtime());
 //echo "<br><br>";
@@ -103,3 +104,4 @@ echo $sec;
 echo " ".$gre;
 
 ?>
+*/
